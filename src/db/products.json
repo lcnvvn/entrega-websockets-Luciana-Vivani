@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a197286f-06dc-4b19-9cfe-d2bb446417cc",
+    "title": "prueba 2",
+    "description": "descripcion",
+    "code": "zxczxa1",
+    "price": 200,
+    "status": true,
+    "stock": 5,
+    "category": "categoria1",
+    "thumbnail": []
+  },
+  {
+    "id": "0d77c34f-113b-46f7-aef3-20732226d153",
+    "title": "prueba 3",
+    "description": "descripcion",
+    "code": "zcsaf",
+    "price": 200,
+    "status": true,
+    "stock": 5,
+    "category": "categoria1",
+    "thumbnail": []
+  },
+  {
+    "id": "5193315e-ae2b-4c09-a738-d018428e7a6c",
+    "title": "uuuuuuuu",
+    "description": "aaa",
+    "code": "12498sdf",
+    "price": "100",
+    "status": true,
+    "stock": "5",
+    "category": "hola",
+    "thumbnail": []
+  },
+  {
+    "id": "de2eca88-36b0-45c7-8487-5c18b0b8daa1",
+    "title": "uuuuuuuu",
+    "description": "aaa",
+    "code": "asd",
+    "price": "100",
+    "status": true,
+    "stock": "5",
+    "category": "hola",
+    "thumbnail": []
+  },
+  {
+    "id": "82db1bb5-a96c-459e-923e-be087a0d4d67",
+    "title": "uuuuuuuu",
+    "description": "aaa",
+    "code": "asd",
+    "price": "100",
+    "status": true,
+    "stock": "5",
+    "category": "hola",
+    "thumbnail": []
+  },
+  {
+    "id": "1224b652-b52d-4abc-bee2-d48508d43403",
+    "title": "asd",
+    "description": "asd",
+    "code": "asd",
+    "price": "5",
+    "status": true,
+    "stock": "5",
+    "category": "asd",
+    "thumbnail": []
+  }
+]

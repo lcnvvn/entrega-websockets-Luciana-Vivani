@@ -1,0 +1,19 @@
+<div>
+  <h2>Agregar producto:</h2>
+  <form id="addProductForm" action="/api/products" method="POST">
+  <input id="productTitle" type="text" required placeholder="Nombre del producto">
+  <input id="productDescription" type="text" required placeholder="Descripción del producto">
+  <input id="productCode" type="text" required placeholder="Código del producto">
+  <input id="productPrice" type="number" required placeholder="Precio del producto">
+  {{!-- <input id="productStatus" type="boolean" required placeholder="Estado del producto"> --}}
+  <input id="productStock" type="number" required placeholder="Stock del producto">
+  <input id="productCategory" type="text" required placeholder="Categoría del producto">
+<input id="addProduct" type="submit" value="Agregar producto">
+  </form>
+</div>
+
+<div id="realTimeProducts">
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/index.js"></script>
